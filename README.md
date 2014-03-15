@@ -1,4 +1,4 @@
-Trabalho_de_APSOO
+Trabalho de APSOO
 =================
 
 Documentos gerados na disciplina de APSOO
